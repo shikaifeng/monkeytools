@@ -78,7 +78,7 @@ def generateHtml():
 
 if __name__ == '__main__':
         count = 0
-while (count < 1):
+while (count < 10):
         WriteTotalMemAndTime(1,"com.yunos.tvtaobao")
         count =count+1
 print getDumpmeminfo()
